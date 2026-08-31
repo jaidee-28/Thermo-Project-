@@ -1,7 +1,0 @@
-Pandas
-Numpy
-Streamlit
-Matplotlib
-Plotly
-Turtle
-
