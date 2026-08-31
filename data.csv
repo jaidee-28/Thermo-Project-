@@ -1,0 +1,201 @@
+S no.,Material_Name,Formula,Category,A,B,C,T_min,T_max,Unit,Source
+1,Aluminum,Al,Metals ,18.38,0.0153,111616.9521,298.15,933,J/mol*K,NIST JANAF Thermochemical Tables
+2,Iron,Fe,Metals ,6.4319,0.0399,601122.1,298.15,1040,J/mol*K,NIST JANAF Thermochemical Tables
+3,Copper,Cu,Metals ,23.736,0.00488,-66676.667,298.15,1350,J/mol*K,NIST JANAF Thermochemical Tables
+4,Nickel,Ni,Metals ,32.915,0.002006,-637971.5753,298.15,630,J/mol*K,NIST JANAF Thermochemical Tables
+5,Titanium ,Ti,Metals ,26.141628,0.00508664,-215140.7843,298.15,1166,J/mol*K,NIST JANAF Thermochemical Tables
+6,Strontium,Sr,Metals ,23.2695,0.01077666,28250.99,298.15,800,J/mol*K,NIST JANAF Thermochemical Tables
+7,Zinc,Zn,Metals ,19.8547,0.01399,120837.5679,298.15,692.73,J/mol*K,NIST JANAF Thermochemical Tables
+8,Lead,Pb,Metals ,24.487386,0.0082387,-9578.7255,298.15,601,J/mol*K,NIST JANAF Thermochemical Tables
+9,Tin,Sn,Metals ,25.75,0.0083,-29000,298.15,505,J/mol*K,"Kubaschewski, Alcock & Spencer, Materials Thermochemistry"
+10,Silver,Ag,Metals ,20.152,0.01057,173600,298.15,1000,J/mol*K,"Kubaschewski, Alcock & Spencer, Materials Thermochemistry"
+11,Gold,Au,Metals ,23.7,0.00572,0,298.15,1336,J/mol*K,"Kubaschewski, Alcock & Spencer, Materials Thermochemistry"
+12,Platinum,Pt,Metals ,23.9,0.0056,0,298.15,1600,J/mol*K,"Kubaschewski, Alcock & Spencer, Materials Thermochemistry"
+13,Chromium,Cr,Metals ,23.414,0.0081685,-214750.8392,298.15,2130,J/mol*K,NIST JANAF Thermochemical Tables
+14,Cobalt (Alpha),Co,Metals ,22.1888,0.01297,-111646.4622,298.15,700,J/mol*K,NIST JANAF Thermochemical Tables
+15,Cobalt (Beta),Co,Metals ,-15.045,0.046,6551071,700,1300,J/mol*K,NIST JANAF Thermochemical Tables
+16,Molybdenum,Mo,Metals ,16.3564,0.01183,392975.6434,298.15,2900,J/mol*K,NIST JANAF Thermochemical Tables
+17,Tungsten,W,Metals ,13.48956,0.010858,767396.5169,298.15,3700,J/mol*K,NIST JANAF Thermochemical Tables
+18,Vanadium,V,Metals ,20.589922,0.0099052,129051.1833,298.15,2200,J/mol*K,NIST JANAF Thermochemical Tables
+19,Manganese (Alpha),Mn,Metals ,23.850587,0.01414159,-157154.8978,298.15,980,J/mol*K,NIST JANAF Thermochemical Tables
+20,Manganese (Beta),Mn,Metals ,33.518,0.00418,0,980,1300,J/mol*K,NIST JANAF Thermochemical Tables
+21,Zirconium (Alpha),Zr,Metals ,21.2777,0.00956387,95359.6029,298.15,1130,J/mol*K,NIST JANAF Thermochemical Tables
+22,Zirconium (Beta),Zr,Metals ,9.4033,0.01158956,6846421.836,1130,2120,J/mol*K,NIST JANAF Thermochemical Tables
+23,Niobium,Nb,Metals ,23.2579,0.00475,5521.2928,298.15,2750,J/mol*K,NIST JANAF Thermochemical Tables
+24,Tantalum,Ta,Metals ,20.471291,0.0062323,304917.2955,298.15,3260,J/mol*K,NIST JANAF Thermochemical Tables
+25,Hafnium (Alpha),Hf,Metals ,24.422931,0.00751,-87850.2244,298.15,2000,J/mol*K,NIST JANAF Thermochemical Tables
+26,Hafnium (Beta),Hf,Metals ,15.549,0.009,0,2000,2500,J/mol*K,NIST JANAF Thermochemical Tables
+27,Rhenium,Re,Metals ,24.06,0.00356,-75000,298.15,2000,J/mol*K,"Kubaschewski, Alcock & Spencer, Materials Thermochemistry"
+28,Palladium,Pd,Metals ,24.64,0.00464,-8800,298.15,1828,J/mol*K,"Kubaschewski, Alcock & Spencer, Materials Thermochemistry"
+29,ruthenium,Ru,Metals ,23.85,0.00684,-11300,298.15,1500,J/mol*K,"Kubaschewski, Alcock & Spencer, Materials Thermochemistry"
+30,iridium,Ir,Metals ,22.72,0.00328,-71000,298.15,2680,J/mol*K,"Kubaschewski, Alcock & Spencer, Materials Thermochemistry"
+31,osmium,Os,Metals ,23.4,0.00427,-140000,298.15,2000,J/mol*K,"Kubaschewski, Alcock & Spencer, Materials Thermochemistry"
+32,Magnesium,Mg,Metals ,19.58028,0.0135,111609.12,298.15,930,J/mol*K,"Kubaschewski, Alcock & Spencer, Materials Thermochemistry"
+33,bismuth,Bi,Metals ,23.64,0.0063,0,298.15,540,J/mol*K,"Kubaschewski, Alcock & Spencer, Materials Thermochemistry"
+34,antimony,Sb,Metals ,23.42,0.00895,0,298.15,900,J/mol*K,"Kubaschewski, Alcock & Spencer, Materials Thermochemistry"
+35,stainless steel,Fe-18Cr-8Ni,Alloys,23.3,0.0139,0,298.15,1200,J/mol*K,NIST Cryogenic Material Properties Database
+36,Plain Carbon Steel ,Fe-0.2C,Alloys,18.9,0.0242,0,298.15,1000,J/mol*K,NIST Cryogenic Material Properties Database
+37,Brass,Cu-30zn,Alloys,24.44,0.0082,0,298.15,1200,J/mol*K,NIST Cryogenic Material Properties Database
+38,Bronze,Cu-10Sn,Alloys,23.85,0.0076,0,298.15,775,J/mol*K,NIST Cryogenic Material Properties Database
+39,Duralumin,Al-4.4Cu-1.5Mg,Alloys,21.3,0.0111,0,298.15,1900,J/mol*K,NIST Cryogenic Material Properties Database
+40,Inconel,Ni-22Cr-9Mo-3.5Nb,Alloys,25.6,0.0069,0,298.15,1563,J/mol*K,NIST Cryogenic Material Properties Database
+41,Monel,Ni-33Cu,Alloys,24.8,0.0064,0,298.15,1600,J/mol*K,NIST Cryogenic Material Properties Database
+42,Invar,Fe-36Ni,Alloys,20.1,0.0152,-20000,298.15,1150,J/mol*K,NIST Cryogenic Material Properties Database
+43,Nichrome,Ni-20Cr,Alloys,25.9,0.0056,0,298.15,1670,J/mol*K,MatWeb
+44,Tin Lead solder,Sn-40Pb,Alloys,25.7,0.0104,0,298.15,456,J/mol*K,MatWeb
+45,Mangnesium Alloy,Mg-3Al-Zn,Alloys,23.4,0.0103,0,298.15,878,J/mol*K,MatWeb
+46,Zinc Die Cast Alloy,Zn-4Al,Alloys,24.1,0.0096,0,298.15,658,J/mol*K,MatWeb
+47,Gray Cast Iron,Fe-3.4C-2Si,Alloys,20.6,0.0201,0,298.15,1420,J/mol*K,MatWeb
+48,Beryllium Copper,Cu-2Be,Alloys,23.1,0.0069,0,298.15,1300,J/mol*K,MatWeb
+49,Titanium Alloy,Ti-6Al-4V,Alloys,23.8,0.0093,-30000,298.15,1900,J/mol*K,MatWeb
+50,Quartz(Alpha),SiO2,Ceramic,46.94,0.03431,-1130000,298.15,848,J/mol*K,NIST JANAF Thermochemical Tables
+51,Aluminum Oxide ,Al2O3,Ceramic,117.49,0.01038,-3711000,298.15,1800,J/mol*K,NIST JANAF Thermochemical Tables
+52,Calcium Oxide ,CaO,Ceramic,50.42,0.00418,-849000,298.15,2000,J/mol*K,NIST JANAF Thermochemical Tables
+53,Calcium Titanate ,CaTiO3,Ceramic,127.39,0.00569,-2799000,298.15,1600,J/mol*K,NIST Chemistry WebBook
+54,Cordierite ,Mg2Al4Si5O18,Ceramic,626.34,0.09121,-20000000,298.15,1700,J/mol*K,NIST Chemistry WebBook
+55,Chromium Oxide ,Cr2O3,Ceramic,119.37,0.0093,-1565000,298.15,1800,J/mol*K,NIST JANAF Thermochemical Tables
+56,Silica ,SiO2,Ceramic,43.93,0.03883,-969000,298.15,847,J/mol*K,NIST JANAF Thermochemical Tables
+57,Titanium Dioxide,TiO2,Ceramic,73.35,0.00305,-1703000,298.15,1800,J/mol*K,NIST JANAF Thermochemical Tables
+58,Zirconium Dioxide ,ZrO2,Ceramic,69.62,0.00753,-1406000,298.15,1478,J/mol*K,NIST JANAF Thermochemical Tables
+59,Silica Nitride,Si3N4,Ceramic,76.36,0.10904,-653000,298.15,900,J/mol*K,NIST JANAF Thermochemical Tables
+60,Magnesium Oxide,MgO,Ceramic,48.99,0.00343,-1130000,298.15,2100,J/mol*K,NIST JANAF Thermochemical Tables
+61,Iron Oxide ,Fe2O3,Ceramic,98.28,0.07782,-1485000,298.15,950,J/mol*K,NIST JANAF Thermochemical Tables
+62,Silicon Carbide,SiC,Ceramic,50.79,0.00402,-1610000,298.15,1700,J/mol*K,NIST JANAF Thermochemical Tables
+63,Vanadium Oxide,VO,Ceramic,45.6831,0.0151,-405201,298.15,2000,J/mol*K,NIST JANAF Thermochemical Tables
+64,Vanadium Nitride ,VN,Ceramic,44.712,0.009798,-856573,298.15,2200,J/mol*K,NIST JANAF Thermochemical Tables
+65,Mercury Oxide,HgO,Ceramic,48.008,0.01307,-712357,298.15,1000,J/mol*K,NIST JANAF Thermochemical Tables
+66,Barium Oxide ,BaO,Ceramic,50.173,0.00722,-460602.32,298.15,2200,J/mol*K,NIST JANAF Thermochemical Tables
+67,Copper Cyanide,CuCN,Ceramic,63.33,0.0197,-728676,298.15,1000,J/mol*K,NIST JANAF Thermochemical Tables
+68,Lithium Oxide,Li2O,Ceramic,68.388,0.018,-1789948,298.15,1800,J/mol*K,NIST JANAF Thermochemical Tables
+69,Boron Nitride,BN,Ceramic,42.8,0.01443,-943000,298.15,1500,J/mol*K,NIST JANAF Thermochemical Tables
+70,Niobium Oxide,NbO2,Ceramic,41.103,0.04586,320570.83,298.15,1000,J/mol*K,NIST JANAF Thermochemical Tables
+71,Magnesium Aluminate,MgAl2O4,Ceramic,145.75,0.00963,-3120000,298.15,2000,J/mol*K,NIST Chemistry WebBook
+72,Mulite,3Al2O3.2SiO2,Ceramic,445.9,0.00963,-12000000,298.15,1800,J/mol*K,NIST Chemistry WebBook
+73,MolyBdenum Oxide,MoO2,Ceramic,56.272,0.02663581,-724079,298.15,1800,J/mol*K,NIST JANAF Thermochemical Tables
+74,Nickel Oxide ,NiO,Ceramic,53.35,0.00494,-975000,298.15,1800,J/mol*K,NIST JANAF Thermochemical Tables
+75,Copper (||) Oxide ,CuO,Ceramic,42.3,0.00791,-462000,298.15,1250,J/mol*K,NIST JANAF Thermochemical Tables
+76,Copper (I) Oxide ,Cu2O,Ceramic,62.34,0.02352,0,298.15,1500,J/mol*K,NIST JANAF Thermochemical Tables
+77,Manganese (II) Oxide ,MnO,Ceramic,48.66,0.00863,-596000,298.15,1800,J/mol*K,NIST JANAF Thermochemical Tables
+78,Manganese Oxide ,Mn3O4,Ceramic,139.66,0.0628,-1674000,298.15,1720,J/mol*K,NIST JANAF Thermochemical Tables
+79,Cerium (IV) Oxide ,CeO2,Ceramic,74.68,0.00611,-1088000,298.15,1500,J/mol*K,NIST JANAF Thermochemical Tables
+80,Yttrium Oxide ,Y2O3,Ceramic,110.5,0.00786,-1720000,298.15,2600,J/mol*K,NIST JANAF Thermochemical Tables
+81,Lanthanym Oxide ,La2O3,Ceramic,114.6,0.0118,-1570000,298.15,2000,J/mol*K,NIST JANAF Thermochemical Tables
+82,thorium Dioxide ,ThO2,Ceramic,76.36,0.00795,-895000,298.15,1500,J/mol*K,NIST JANAF Thermochemical Tables
+83,Uranium Dioxide ,UO2,Ceramic,81.13,0.00279,-1533000,298.15,1400,J/mol*K,NIST JANAF Thermochemical Tables
+84,Lead(II) Oxide ,PbO,Ceramic,45.19,0.01088,0,298.15,760,J/mol*K,NIST JANAF Thermochemical Tables
+85,Tin(IV)Oxide ,SnO2,Ceramic,73.72,0.00527,-1046000,298.15,1500,J/mol*K,NIST JANAF Thermochemical Tables
+86,Calcium Chloride,CaCl2,Other Technologically Relevant Materials,68.76,0.016,-59942,298.15,1050,J/mol*K,NIST-JANAF Thermochemical Tables
+87,Calcium Sulfide,CaS,Other Technologically Relevant Materials,49.29,0.00514,-300688,298.15,1300,J/mol*K,NIST-JANAF Thermochemical Tables
+88,Carbon,C,Other Technologically Relevant Materials,16.8744,0.00489249,-877610,298.15,1800,J/mol*K,NIST-JANAF Thermochemical Tables
+89,Iron Sulfide ,FeS2,Other Technologically Relevant Materials,65.266,0.0185,-743503,298.15,1400,J/mol*K,NIST-JANAF Thermochemical Tables
+90,Magnesium Silicate,MgSiO3,Other Technologically Relevant Materials,92.65,0.0326,-1876978,298.15,900,J/mol*K,NIST-JANAF Thermochemical Tables
+91,Sodium Chloride,NaCl,Other Technologically Relevant Materials,37.4001,0.000696,-174865.1166,2500,6000,J/mol*K,NIST Chemistry WebBook
+92,Sodium Sulfide,Na2S,Other Technologically Relevant Materials,79.2935,0.01344,-44254.4138,298,1000,J/mol*K,NIST-JANAF Thermochemical Tables
+93,Sulfur (Rhombic),S8,Other Technologically Relevant Materials,180.87,0.001271,-2280116.716,298.15,1500,J/mol*K,NIST Chemistry WebBook
+94,Iodine,I2,Other Technologically Relevant Materials,29.583,0.00684,984715.2577,458,2000,J/mol*K,NIST Chemistry WebBook
+95,Argon,Ar,Other Technologically Relevant Materials,20.786,0,0,298.15,6000,J/mol*K,NIST-JANAF Thermochemical Tables
+96,water,H2O,Other Technologically Relevant Materials,32.043,0.01002,-458519.8526,500,1700,J/mol*K,NIST Chemistry WebBook
+97,Carbon Dioxide (g),CO2,Other Technologically Relevant Materials,45.5021,0.0087,-982836,298.15,1800,J/mol*K,NIST-JANAF Thermochemical Tables
+98,Sodium Nitrate,NaNO3,Other Technologically Relevant Materials,85.9,0.0273,-630000,298.15,583,J/mol*K,NIST-JANAF Thermochemical Tables
+99,Potassium Nitrate,KNO3,Other Technologically Relevant Materials,88.1,0.0291,-670000,298.15,610,J/mol*K,NIST-JANAF Thermochemical Tables
+100,Lithium Carbonate,Li2CO3,Other Technologically Relevant Materials,99.9,0.0396,-920000,298.15,1000,J/mol*K,NIST-JANAF Thermochemical Tables
+101,High-Density Polyethylene (HDPE),-(C2H4)n-,Polymer,13.824,0.2889,0.00E+00,200,400,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+102,Polypropylene (PP),-(C3H6)n-,Polymer,16.242,0.3643,0.00,200,430,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+103,Polystyrene (PS),-(C8H8)n-,Polymer,43.904,0.5348,0,250,400,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+104,Poly(vinyl chloride) (PVC),-(C2H3Cl)n-,Polymer,21.735,0.2645,0,250,350,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+105,Poly(methyl methacrylate) (PMMA),-(C5H8O2)n-,Polymer,35.979,0.4686,0,250,370,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+106,Polytetrafluoroethylene (PTFE),-(C2F4)n-,Polymer,28.676,0.1949,0,250,533,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+107,Nylon 6 (Polyamide 6),-(C6H11NO)n-,Polymer,41.556,0.4893,0,250,490,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+108,"Nylon 6,6 (Polyamide 66)",-(C12H22N2O2)n-,Polymer,78.233,0.8951,0,250,525,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+109,Polyethylene Terephthalate (PET),-(C10H8O4)n-,Polymer,64.511,0.6038,0,250,525,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+110,Polycarbonate (PC),-(C16H14O3)n-,Polymer,94.42,0.887,0,250,420,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+111,"Polyurethane (generic, PU)",-(C17H16N2O4)n-,Polymer,72.506,0.7335,0,220,500,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+112,Poly(vinyl acetate) (PVAc),-(C4H6O2)n-,Polymer,28.482,0.3378,0,220,305,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+113,"Polybutadiene (PB, rubber)",-(C4H6)n-,Polymer,18.504,0.3043,0,180,350,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+114,Polyisoprene (natural rubber),-(C5H8)n-,Polymer,22.555,0.3404,0,180,350,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+115,Poly(vinylidene fluoride) (PVDF),-(C2H2F2)n-,Polymer,23.6,0.2224,0,220,450,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+116,"Polyoxymethylene (POM, Acetal)",-(CH2O)n-,Polymer,11.06,0.185,0,220,448,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+117,Polyetheretherketone (PEEK),-(C19H12O3)n-,Polymer,109.345,1.0121,0,250,600,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+118,Polyimide (Kapton-type),-(C22H10N2O5)n-,Polymer,128.465,1.1286,0,250,673,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+119,"Epoxy Resin (DGEBA, cured)",-(C21H24O4)n-,Polymer,94.259,0.9586,0,250,400,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+120,"Polydimethylsiloxane (PDMS, silicone)",-(C2H6OSi)n-,Polymer,32.951,0.4142,0,200,500,J/mol*K,PoLyInfo Polymer Database (NIMS) / Springer Open Data 
+121,Fused Silica Glass,SiO2 (amorphous),Glass,55.759,0.015706,-1650000,298,1450,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+122,Soda-Lime Glass,Na2O.CaO.6SiO2,Glass,383.044,0.041685,-6000000,298,800,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+123,Borosilicate Glass (Pyrex-type),SiO2-B2O3-Na2O-Al2O3,Glass,69.309,0.018422,-2010000,298,1090,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+124,Lead (Flint) Glass,PbO.SiO2,Glass,73.866,0.020227,-1230000,298,710,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+125,Aluminosilicate Glass,Al2O3-SiO2,Glass,89.247,0.016558,-2240000,298,1000,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+126,Chalcogenide Glass (As2Se3),As2Se3,Glass,91.192,0.025096,-840000,200,453,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+127,Fluoride Glass (ZBLAN),ZrF4-BaF2-LaF3-AlF3-NaF,Glass,152.43,0.030399,-1890000,200,538,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+128,Phosphate Glass,P2O5-based,Glass,97.292,0.022348,-1470000,298,750,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+129,Borate Glass,B2O3,Glass,62.697,0.019554,-960000,298,600,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+130,Germanate Glass,GeO2,Glass,57.263,0.013193,-1380000,298,900,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+131,Vycor Glass (96% Silica),SiO2 (96%)-B2O3(4%),Glass,57.283,0.014983,-1600000,298,1490,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+132,Float Glass (Soda-Lime-Silica),Na2O.CaO.6SiO2,Glass,375.979,0.041435,-5850000,298,830,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+133,E-Glass (Fiberglass),CaO-Al2O3-B2O3-SiO2,Glass,412.209,0.045598,-5500000,298,1120,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+134,S-Glass (High-Strength Fiberglass),MgO-Al2O3-SiO2,Glass,431.018,0.04683,-5200000,298,1330,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+135,Bioactive Glass (45S5),Na2O-CaO-P2O5-SiO2,Glass,353.244,0.039998,-4900000,298,810,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+136,Chalcogenide Glass (GeSe2),GeSe2,Glass,77.604,0.021621,-720000,200,640,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+137,Tellurite Glass,TeO2,Glass,67.136,0.01771,-1050000,298,600,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+138,Zr-based Metallic Glass (BMG),Zr41Ti14Cu12Ni10Be23,Glass,115.915,0.026169,0,298,623,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+139,Fe-based Metallic Glass,Fe80B20,Glass,44.232,0.011273,0,298,735,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+140,Photochromic Silicate Glass,SiO2-Na2O-Ag(halide),Glass,82.287,0.019216,-1520000,298,750,J/mol*K,AZoM Materials Database / NIST / Springer Open Data 
+141,Silicon,Si,Semiconductor,22.905,0.003853,-3.55E+05,298,1685,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+142,Germanium,Ge,Semiconductor,23.497,0.004907,-184000,298,1211,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+143,Gallium Arsenide,GaAs,Semiconductor,46.571,0.007796,-611000,298,1511,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+144,Gallium Nitride,GaN,Semiconductor,39.776,0.005316,-5.85E+05,298,2500,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+145,Indium Phosphide,InP,Semiconductor,44.01,0.00802,-472000,298,1335,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+146,Indium Arsenide,InAs,Semiconductor,45.581,0.008584,-360000,298,1215,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+147,Indium Antimonide,InSb,Semiconductor,48.648,0.009078,-295000,298,800,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+148,Gallium Phosphide,GaP,Semiconductor,43.327,0.006998,-520000,298,1730,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+149,Aluminum Nitride,AlN,Semiconductor,44.856,0.005018,-1397000,298,2500,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+150,Zinc Sulfide,ZnS,Semiconductor,50.213,0.009083,-810000,298,2103,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+151,Zinc Selenide,ZnSe,Semiconductor,52.727,0.009438,-690000,298,1799,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+152,Zinc Oxide,ZnO,Semiconductor,49.716,0.005128,-940000,298,2242,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+153,Cadmium Sulfide,CdS,Semiconductor,52.089,0.009642,-620000,298,1750,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+154,Cadmium Telluride,CdTe,Semiconductor,50.948,0.009855,-450000,298,1365,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+155,Cadmium Selenide,CdSe,Semiconductor,50.489,0.009778,-510000,298,1531,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+156,Lead Sulfide,PbS,Semiconductor,49.456,0.008549,-390000,298,1387,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+157,Lead Telluride,PbTe,Semiconductor,50.503,0.008914,-320000,298,1197,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+158,Silicon-Germanium Alloy,Si0.5Ge0.5,Semiconductor,22.951,0.004431,-270000,298,1450,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+159,Gallium Antimonide,GaSb,Semiconductor,46.64,0.008336,-310000,298,985,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+160,Boron Phosphide,BP,Semiconductor,38.847,0.006116,-460000,298,1400,J/mol*K,NIST-JANAF Thermochemical Tables / Materials Project 
+161,Silicon Carbide (alpha),SiC,Refractory,50.875,0.004032,-1.61E+06,298,1700,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+162,Tungsten Carbide,WC,Refractory,40.461,0.006709,-8.90E+05,298,3058,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+163,Titanium Carbide,TiC,Refractory,49.165,0.00335,-1.17E+06,298,3160,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+164,Zirconium Carbide,ZrC,Refractory,51.125,0.004071,-1.24E+06,298,3805,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+165,Tantalum Carbide,TaC,Refractory,47.52,0.003606,-1090000,298,3880,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+166,Niobium Carbide,NbC,Refractory,48.18,0.003933,-1110000,298,3880,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+167,Hafnium Carbide,HfC,Refractory,52.785,0.004287,-1.29E+06,298,3900,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+168,Boron Carbide,B4C,Refractory,96.575,0.015055,-2860000,298,2763,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+169,Titanium Diboride,TiB2,Refractory,67.514,0.008897,-1820000,298,3225,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+170,Zirconium Diboride,ZrB2,Refractory,68.887,0.009024,-1.91E+06,298,3520,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+171,Hafnium Diboride,HfB2,Refractory,70.081,0.009398,-2.03E+06,298,3653,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+172,Silicon Nitride,Si3N4,Refractory,132.127,0.025226,-2.43E+06,298,1900,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+173,Boron Nitride (hexagonal),BN,Refractory,19.18,0.024943,-4.28E+05,298,3000,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+174,Titanium Nitride,TiN,Refractory,47.639,0.005202,-1.26E+06,298,3203,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+175,Zirconium Nitride,ZrN,Refractory,49.539,0.005546,-1310000,298,2955,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+176,Graphite,C,Refractory,17.262,0.004304,-8.79E+05,298,2300,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+177,Molybdenum Disilicide,MoSi2,Refractory,70.688,0.012413,-1560000,298,2303,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+178,Chromium Carbide,Cr3C2,Refractory,117.969,0.022377,-2210000,298,2168,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+179,Vanadium Carbide,VC,Refractory,46.496,0.003812,-1.04E+06,298,3103,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+180,Tantalum Nitride,TaN,Refractory,48.519,0.004926,-1180000,298,3360,J/mol*K,NIST-JANAF Thermochemical Tables / AFLOW / Materials Project 
+181,Carbon Fiber Reinforced Polymer (CFRP),Carbon fiber / Epoxy matrix,Composite material,42.167,0.554576,0,250,450,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+182,Glass Fiber Reinforced Polymer (GFRP),E-glass fiber / Epoxy matrix,Composite material,55.3,0.614264,0,250,450,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+183,Kevlar Fiber Reinforced Polymer (KFRP),Aramid fiber / Epoxy matrix,Composite material,46.851,0.578503,0,250,450,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+184,Aluminum-SiC Metal Matrix Composite,Al / SiC particulate,Composite material,26.574,0.00986,0,298,800,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+185,Aluminum-Al2O3 Metal Matrix Composite,Al / Al2O3 particulate,Composite material,27.001,0.010191,0,298,800,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+186,SiC/SiC Ceramic Matrix Composite,SiC fiber / SiC matrix,Composite material,52.38,0.004301,-1590000,298,1800,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+187,Carbon-Carbon Composite (C/C),Carbon fiber / Carbon matrix,Composite material,18.211,0.004438,-850000,298,2500,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+188,C/SiC Ceramic Matrix Composite,Carbon fiber / SiC matrix,Composite material,40.427,0.004558,-1230000,298,1800,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+189,PEEK/Carbon Fiber Composite,Carbon fiber / PEEK matrix,Composite material,88.285,0.85837,0,250,600,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+190,Wood-Plastic Composite (WPC),Wood flour / HDPE matrix,Composite material,25.095,0.341691,0,250,350,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+191,Fiber-Cement Composite Board,Cellulose fiber / Portland cement,Composite material,68.733,0.012498,-610000,250,600,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+192,Boron Fiber/Epoxy Composite,Boron fiber / Epoxy matrix,Composite material,48.918,0.597791,0,250,450,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+193,Aramid-Aramid Laminate,Kevlar fiber / Kevlar matrix film,Composite material,44.44,0.561811,0,250,450,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+194,Titanium-SiC Matrix Composite,Ti / SiC fiber,Composite material,25.835,0.008629,-120000,298,1000,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+195,Al-Li Alloy/B4C Composite,Al-Li / B4C particulate,Composite material,24.721,9.36E-03,0,298,800,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+196,Flax Fiber/Epoxy Natural Composite,Flax fiber / Epoxy matrix,Composite material,41.661,0.517306,0,250,400,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+197,Basalt Fiber Reinforced Polymer (BFRP),Basalt fiber / Epoxy matrix,Composite material,52.699,0.61404,0,250,450,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+198,Tungsten Fiber/Copper Matrix Composite,W fiber / Cu matrix,Composite material,24.529,0.006359,0,298,1300,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+199,Nickel-Al2O3 Matrix Composite,Ni / Al2O3 particulate,Composite material,26.853,0.008967,-180000,298,1700,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
+200,Epoxy-Glass Laminate (G10/FR4),Epoxy / Woven glass fabric,Composite material,44.727,0.846776,0,250,400,J/mol*K,NASA Glenn Thermodynamic Database / MatWeb / AZoM 
