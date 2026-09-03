@@ -276,14 +276,7 @@ with st.sidebar:
         st.dataframe(db_show, use_container_width=True, height=220)
         
     st.markdown("---")
-    st.markdown(
-        "<div style='font-size: 0.78rem; color: #94A3B8; text-align: center;'>"
-        "<b>Materials Thermodynamics Project</b><br>"
-        "2nd Year Engineering Student UI<br>"
-        "Kelley Equation: <i>C<sub>p</sub> = a + bT + c/T<sup>2</sup></i>"
-        "</div>",
-        unsafe_allow_html=True
-    )
+    
 
 # Header Banner on Main Page
 st.markdown(
