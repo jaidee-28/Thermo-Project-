@@ -524,12 +524,5 @@ elif selected_mode == "Compare Materials":
         st.markdown("<div class='section-title'>📋 Comparison Summary Table</div>", unsafe_allow_html=True)
         st.dataframe(pd.DataFrame(summary_list), use_container_width=True)
 
-# Footer
-st.markdown(
-    """
-    <div class='student-footer'>
-        ⚡ <b>Materials Thermodynamics Explorer</b> | Styled UI by 2nd Year Student | Powered by Python, Pandas & Streamlit
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+
+
